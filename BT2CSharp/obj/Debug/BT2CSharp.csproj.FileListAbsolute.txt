@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\bin\Debug\BT2CSharp.exe.config
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\bin\Debug\BT2CSharp.exe
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\bin\Debug\BT2CSharp.pdb
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\obj\Debug\BT2CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\obj\Debug\BT2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\obj\Debug\BT2CSharp.exe
+C:\Users\PC\source\repos\BT2CSharp\BT2CSharp\obj\Debug\BT2CSharp.pdb
